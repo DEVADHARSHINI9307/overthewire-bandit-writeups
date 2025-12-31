@@ -1,0 +1,7 @@
+// username: bandit1
+login: ssh bandit1@bandit.labs.overthewire.org -p 2220
+
+ls                      // list files
+cat ./-                 // read file named "-"
+
+exit
