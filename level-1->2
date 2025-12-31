@@ -1,7 +1,8 @@
 // username: bandit1
 login: ssh bandit1@bandit.labs.overthewire.org -p 2220
+enter password of level 1
 
 ls                      // list files
 cat ./-                 // read file named "-"
-
+password for level 2 displayed
 exit
